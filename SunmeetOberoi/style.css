@@ -14,3 +14,9 @@
     background-color: #008CBA;
     color : white;
 }
+
+.place_center{
+    width: 400px;
+    height: 100px;
+    margin: auto;
+}
